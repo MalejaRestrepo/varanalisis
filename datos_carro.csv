@@ -1,0 +1,13 @@
+tiempo,velocidad,combustible,estado_carro,cambio_velocidad
+2026-05-12 16:31:00-05:00,180.0,0.0,Riesgo: rápido y poco combustible,
+2026-05-12 16:33:00-05:00,144.0,20.0,Riesgo: rápido y poco combustible,-36.0
+2026-05-12 16:34:00-05:00,153.0,15.0,Riesgo: rápido y poco combustible,9.0
+2026-05-12 16:35:00-05:00,109.0,39.5,Rápido,-44.0
+2026-05-12 16:36:00-05:00,38.0,79.0,Lento,-71.0
+2026-05-12 16:39:00-05:00,82.5,54.5,Velocidad media,44.5
+2026-05-12 16:49:00-05:00,15.0,92.0,Lento,-67.5
+2026-05-12 16:50:00-05:00,15.0,92.0,Lento,0.0
+2026-05-12 17:05:00-05:00,165.0,9.0,Riesgo: rápido y poco combustible,150.0
+2026-05-12 17:06:00-05:00,165.0,9.0,Riesgo: rápido y poco combustible,0.0
+2026-05-12 17:08:00-05:00,52.0,72.0,Velocidad media,-113.0
+2026-05-12 17:10:00-05:00,52.0,72.0,Velocidad media,0.0
